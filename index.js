@@ -5,7 +5,7 @@ const app=express()
 app.use(cors())
 const port =process.env.PORT || 5000;
 app.get('/',(req,res)=>{
-    res.send('server running ok')
+    res.send('serverok')
 })
 app.get('/courses',(req,res)=>{
     res.send(courses)
