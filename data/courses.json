@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "_id": "6358af2f6acbc95b90d4b2e7",
+      "title": "Web Development",
+      "author": "arif khan",
+      "ratting": 4.5,
+      "total_view": 4000,
+      "current_student": 500,
+      "decription": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about what it takes to be a web developer.  Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development.",
+      "picture": "https://miro.medium.com/max/750/1*jGtzzbyshVAnYHrslLtbAg.jpeg"
+    },
+    {
+      "id": 2,
+      "_id": "6358af2fd4e2e7534d2045cd",
+      "title": "Graphic design",
+      "author": "Md Tuhin",
+      "ratting": 4.00,
+      "total_view": 1000,
+      "current_student": 59,
+      "decription": "When you think of graphic design, do you think of artistic advertisements? Eye-grabbing graphics on websites? Stunningly arranged spreads in magazines? While these examples certainly fit under the graphic design definition, the term encompasses a lot: posters, infographics, book covers, product labels, logos, business cards, signs, website layouts, mobile apps, software interfaces—the list goes on. So what is graphic design, exactly? Listing these graphic design examples is a good start, but it doesn’t paint the full picture. While covering the details and intricacies of the entire graphic design field might not be possible in one article, this high-level overview will help you better understand this creative career field.",
+      "picture": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "_id": "6358af2f3295ac0b05530e93",
+      "title": "Digital Marketing ",
+      "author": "Miki Mike",
+      "ratting": 4.5,
+      "total_view": 5000,
+      "current_student": 1100,
+      "decription": "Digital Marketing is catching up fast in India. It is one of top most emerging marketing field where there is a large demand for professionals who understand use and operation of social media and other digital platforms for marketing of the product or service. Ever since the digital revolution in India and arrival of smart phones and cheap internet, digital marketing has taken the centre stage in the marketing sphere. Since, a large part of the population spends a considerable time on social media, companies find it the best platform to attract and engage customer. Thus, the need for digital marketing.",
+      "picture": "https://www.wordstream.com/wp-content/uploads/2021/05/digital-marketing-trends-2021-digital-marketing.png"
+    },
+    {
+      "id": 4,
+      "_id": "6358af2ff3f2e62c6c8c0fa2",
+      "title": "SEO Services",
+      "author": "Nuva tayeb",
+      "ratting": 5,
+      "total_view": 20000,
+      "current_student": 700,
+      "decription": "If you’re a website owner, you may have heard of search engine optimization (SEO). People browse the internet and search for things every day. According to GlobalWebIndex, 60% of the world’s population has access to the internet. And did you know that 53% of B2B and B2C website traffic comes from organic search? That means more than half of your website traffic could come from search engines like Google. So you need to optimize your website for search engines to get website traffic.  Despite that, The Manifest shares that only 30% of US business owners have an SEO strategy in place. Most entrepreneurs that have tried it found it too time-consuming and have seen little SEO success.",
+      "picture": "https://mangools.com/blog/wp-content/uploads/2019/07/learn-seo-new-t.png"
+    },
+    {
+      "id": 5,
+      "_id": "6358af2fdd7bbcef93daa1ea",
+      "title": "Video Editing",
+      "author": "Ripon Jr",
+      "ratting": 3.5,
+      "total_view": 320,
+      "current_student": 40,
+      "decription": "If you’re looking to join the video editing game, your first step is to find editing software that meets your skill level and budget. You can find hundreds of video editing programs across the web that come with a range of prices, features, tools, and capabilities—and knowing which one is right for you may feel challenging. The secret to making amazing videos is always the maker, not the software. You don’t need to purchase an expensive, high end program to create a Hollywood-level video. Instead, you need to know how to use an affordable program to your full advantage. Video editors such as PowerDirector offer a wide range of unique tools and features with beginner friendly capabilities for an affordable price tag. In addition, Lightworks, VideoPad, Nero Video, and Movavi Movie Edit Plus are affordable programs many editors use today. ",
+      "picture": "https://www.videosoftdev.com/images/video_editor/pro/promo-banner-ip.jpg"
+    },
+    {
+      "id": 6,
+        "_id": "6358af2fdd7bbcef93daa1ea",
+        "title": "Data Entry",
+        "author": "David new",
+        "ratting": 4.5,
+        "total_view": 1400,
+        "current_student": 120,
+        "decription": "Welcome to this ultimate Data Entry Course for Beginners, from where you are going to learn about Data Entry project types available on freelance marketplaces such as - Upwork and Fiverr. You're going to learn about Data Entry from an well experienced, successful, Top Rated Data Entry Professional - who have been providing Virtual Assistance services to clients since 2012! This live project example based Data Entry Course is for all of the peoples who are interested to become a Freelancer, work from home and provide Data Entry services to their clients. I have added few demo project examples for you to try and practice - which will help you for you sure to get the taste of the field easily. Along with the DEMO Data Entry project examples, I have added few project details on which I worked for clients - to give you a clear understanding.",
+        "picture": "https://twistarticle.com/wp-content/uploads/2020/06/Earn-Money-Online-With-Data-Entry-Jobs.jpg"
+      }
+  ]
+
+
+
+  
+  
