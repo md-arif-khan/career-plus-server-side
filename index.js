@@ -16,5 +16,5 @@ app.get('/courses/:id',(req,res)=>{
     res.send(course)
 })
 app.listen(port,()=>{
-    console.log('server running')
+    console.log('server is running')
 })
